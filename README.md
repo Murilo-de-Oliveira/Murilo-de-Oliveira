@@ -6,7 +6,7 @@
 <img src="https://github.com/Murilo-de-Oliveira/Murilo-de-Oliveira/blob/main/banner.jpg" alt="Banner of a developer sitting in front of a desk">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi!+👋;+I'm+Murilo!;" />
 </h1>
 
 ### A undergraduated student learning programming.
